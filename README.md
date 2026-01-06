@@ -2,7 +2,7 @@
 # 👋 Hi, I'm OlDeuS1!
 
 [![GitHub followers](https://img.shields.io/github/followers/OlDeuS1?label=Follow%20Me&style=social)](https://github.com/OlDeuS1)
-[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thanasit.mick@gmail.com)](mailto:thanasit.mick@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-thanasit.mick@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thanasit.mick@gmail.com)](mailto:thanasit.mick@gmail.com)
 
 ---
 
